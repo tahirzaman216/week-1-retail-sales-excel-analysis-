@@ -1,0 +1,15 @@
+Total Sales Amount,,"$456,000",,,,,,,
+Average Sales Amount,,$456 ,,,Sales by product category,,,Sales by Gender,
+Min Sales Amount,,$25 ,,,product category,Sales,,Gender ,Sales
+Max Sales Amount,,"$2,000 ",,,Beauty,"$143,515",,Male,"$223,160"
+Total Quatity Sold,,,2514,,Clothing,"$155,580",,Female,"$232,840"
+,,,,,Electronics,"$156,905",,,
+Max Age,64,,,,,,,,
+Min Age,18,,,,,,,,
+Average Age,41.392,,,,Quantity Sold by Product Category,,,,
+Total Number of Transaction,,,1000,,Product Category,Quantity,,,
+Beauty,,"$143,515",,,Beauty,771,,,
+Clothing,,"$155,580",,,Clothing,894,,,
+Electronics,,"$156,905",,,Electronics,849,,,
+,,,,,,,,,
+Total Number of Transaction,,456000,,,,,,,
